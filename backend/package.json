@@ -1,0 +1,14 @@
+{
+  "name": "petshop-backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "up": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.2"
+  },
+  "devDependencies": {
+
+  }
+}
